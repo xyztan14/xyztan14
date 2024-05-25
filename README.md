@@ -1,6 +1,4 @@
 # xyztngr
-
-ABOUT ME
 My real name is Mahendra. I have basic programming in HTML5, CSS3, Javascript and PHP.
 I haven't written code for a long time so i forgot, therefore i learn again and save my learning process here.
 Please review my code and help me to become a Chief Technology Officer.
